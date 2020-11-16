@@ -13,6 +13,7 @@ opencv-python = "*"
 matplotlib = "*"
 wget = "*"
 numpy = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.7"
