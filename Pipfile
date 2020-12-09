@@ -1,19 +1,19 @@
 [[source]]
-name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
-
-[dev-packages]
+name = "pypi"
 
 [packages]
+opencv-python = "*"
+numpy = "*"
 jupyter = "*"
 notebook = "*"
-jupyterlab = "*"
-opencv-python = "*"
 matplotlib = "*"
-wget = "*"
-numpy = "*"
 scipy = "*"
+wget = "*"
+jupyterlab = "*"
+
+[dev-packages]
 
 [requires]
 python_version = "3.7"
