@@ -12,6 +12,7 @@ matplotlib = "*"
 scipy = "*"
 wget = "*"
 jupyterlab = "*"
+scikit-image = "*"
 
 [dev-packages]
 
